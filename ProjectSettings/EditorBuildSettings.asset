@@ -4,4 +4,13 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/start.unity
+    guid: c5f8f39e329374c4896dcd8b7f74f520
+  - enabled: 1
+    path: Assets/Scenes/MetroFreeTeplate_300.unity
+    guid: 5d37d5d45d1fc784984ef63181fa90d2
+  - enabled: 1
+    path: Assets/Scenes/ulg20.unity
+    guid: 6688cc3bcafe13742ac50eeaee1c0fa2
